@@ -1,3 +1,5 @@
+# Projeto em pausa
+
 # Sistema de Cadastro para Lanchonete com Flet
 
 &nbsp;
